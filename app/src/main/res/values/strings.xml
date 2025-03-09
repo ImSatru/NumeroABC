@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NumeroABC</string>
+    <string name="resultado">Resultado:</string>
+    <string name="seleccionar_n_meros">Seleccionar números:</string>
+    <string name="checkboxA">A</string>
+    <string name="checkboxB">B</string>
+    <string name="checkboxC">C</string>
+    <string name="operaciones">Operaciones:</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicaci_n">*\n</string>
+    <string name="divisi_n">/\n</string>
+</resources>
